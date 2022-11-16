@@ -21,13 +21,6 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jay1194/Text-Editor.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Jay1194/Text-Editor/issues"
-  },
-  "homepage": "https://github.com/Jay1194/Text-Editor#readme"
+  } 
 }
+
