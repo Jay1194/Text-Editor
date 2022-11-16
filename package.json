@@ -1,7 +1,7 @@
 {
   "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "The app is a text editor which will is a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques\r  that serve as redundancies in case one of the options is not supported by the browser. The application will also function offline. \r  This will be done by the implementation of methods for getting and storing data to an IndexedDB database.",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
@@ -15,11 +15,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "express": "^4.18.2",
+    "if-env": "^1.0.4",
+    "nodemon": "^2.0.20"
   },
   "devDependencies": {
-    "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
-  }
-  }
+    "concurrently": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay1194/Text-Editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jay1194/Text-Editor/issues"
+  },
+  "homepage": "https://github.com/Jay1194/Text-Editor#readme"
+}
