@@ -40,7 +40,7 @@ Jay1194
 
 # Review
 
-* The URL of the deployed application
+* https://jay-texteditor.herokuapp.com/
 
 * https://github.com/Jay1194/Text-Editor
 
