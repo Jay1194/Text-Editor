@@ -10,7 +10,7 @@ The app is a text editor which will is a single-page application that meets the 
 
 ## Mock-Up
 
-
+https://courses.bootcampspot.com/courses/1490/files/2039313/preview
 ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
