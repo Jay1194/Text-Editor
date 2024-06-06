@@ -10,6 +10,13 @@ The PWA Text Editor is a Progressive Web Application (PWA) that allows users to 
 - [Contributing](#contributing)
 - [License](#license)
 
+## Mock up
+![00-demo](https://github.com/Jay1194/Text-Editor/assets/105843570/87047778-2fb0-45b5-8c36-1909c4672afb)
+![01-manifest](https://github.com/Jay1194/Text-Editor/assets/105843570/65cdf348-c339-4648-9543-93b6ae17e5ee)
+![02-service-worker](https://github.com/Jay1194/Text-Editor/assets/105843570/2471800c-1621-4cc6-ba96-f7a2ae51c4cb)
+![03-idb-storage](https://github.com/Jay1194/Text-Editor/assets/105843570/3f980546-720a-478f-b592-d11ee393f236)
+![19-pwa-homework-demo-01](https://github.com/Jay1194/Text-Editor/assets/105843570/b54faac9-3e7b-4839-8af3-78228aa81146)
+
 ## Technologies
 - IndexedDB
 - idb
